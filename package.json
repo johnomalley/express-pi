@@ -1,0 +1,14 @@
+{
+  "name": "example-server",
+  "version": "1.0.0",
+  "license": "ISC",
+  "description": "example app running on a pi",
+  "scripts": {
+    "start": "node bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "coffee-script": "^1.10.0",
+    "express": "^4.13.4"
+  }
+}
